@@ -24,26 +24,26 @@ for 1.2 million episodes. You can train your own model from scratch, start train
 
 ### Results
 
-*Performance after 100000 epsiodes-
-*Episode 1: reward: 0.000, steps: 123 
-*Episode 2: reward: 0.000, steps: 123  
-*Episode 3: reward: 0.000, steps: 123 
-*Episode 4: reward: 0.000, steps: 123 
-*Episode 5: reward: 0.000, steps: 123 
+1) Performance after 100000 epsiodes-
+* Episode 1: reward: 0.000, steps: 123 
+* Episode 2: reward: 0.000, steps: 123  
+* Episode 3: reward: 0.000, steps: 123 
+* Episode 4: reward: 0.000, steps: 123 
+* Episode 5: reward: 0.000, steps: 123 
 
-* Performance after 1.1 million epsiodes-
-Episode 1: reward: 28.000, steps: 976 
-Episode 2: reward: 28.000, steps: 976 \n
-Episode 3: reward: 28.000, steps: 976
-Episode 4: reward: 28.000, steps: 976
-Episode 5: reward: 28.000, steps: 976
+2) Performance after 1.1 million epsiodes-
+* Episode 1: reward: 28.000, steps: 976 
+* Episode 2: reward: 28.000, steps: 976 \n
+* Episode 3: reward: 28.000, steps: 976
+* Episode 4: reward: 28.000, steps: 976
+* Episode 5: reward: 28.000, steps: 976
 
-* Performance after 1.1 million epsiodes-
-Episode 1: reward: 40.000, steps: 1513
-Episode 2: reward: 40.000, steps: 1513
-Episode 3: reward: 40.000, steps: 1513
-Episode 4: reward: 40.000, steps: 1513
-Episode 5: reward: 40.000, steps: 1513
+3) Performance after 1.1 million epsiodes-
+* Episode 1: reward: 40.000, steps: 1513
+* Episode 2: reward: 40.000, steps: 1513
+* Episode 3: reward: 40.000, steps: 1513
+* Episode 4: reward: 40.000, steps: 1513
+* Episode 5: reward: 40.000, steps: 1513
 
 
 You can observe that the model is able to understand how to play the game and achieve human like scores after 1.2 million episodes of training. 
