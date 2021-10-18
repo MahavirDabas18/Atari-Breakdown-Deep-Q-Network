@@ -32,6 +32,8 @@ for 1.2 million episodes. You can train your own model from scratch, start train
 * Episode 3: reward: 0.000, steps: 123 
 * Episode 4: reward: 0.000, steps: 123 
 * Episode 5: reward: 0.000, steps: 123 
+
+
 https://user-images.githubusercontent.com/57484266/137689723-ac3fe7bd-e4a6-40f1-a747-6310fb6cc4bd.mp4
 
 
@@ -41,6 +43,8 @@ https://user-images.githubusercontent.com/57484266/137689723-ac3fe7bd-e4a6-40f1-
 * Episode 3: reward: 28.000, steps: 976
 * Episode 4: reward: 28.000, steps: 976
 * Episode 5: reward: 28.000, steps: 976
+
+
 https://user-images.githubusercontent.com/57484266/137689754-bf823c28-029d-4dd1-924b-b50c04e2a64d.mp4
 
 
@@ -50,6 +54,8 @@ https://user-images.githubusercontent.com/57484266/137689754-bf823c28-029d-4dd1-
 * Episode 3: reward: 40.000, steps: 1513
 * Episode 4: reward: 40.000, steps: 1513
 * Episode 5: reward: 40.000, steps: 1513
+
+
 https://user-images.githubusercontent.com/57484266/137689791-31778e74-d751-42cf-a565-794f40f8d564.mp4
 
 
