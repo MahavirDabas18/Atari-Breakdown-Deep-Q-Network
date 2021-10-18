@@ -25,15 +25,15 @@ for 1.2 million episodes. You can train your own model from scratch, start train
 ### Results
 
 * Performance after 100000 epsiodes-
-Episode 1: reward: 0.000, steps: 123
-Episode 2: reward: 0.000, steps: 123
-Episode 3: reward: 0.000, steps: 123
-Episode 4: reward: 0.000, steps: 123
-Episode 5: reward: 0.000, steps: 123
+Episode 1: reward: 0.000, steps: 123 \n
+Episode 2: reward: 0.000, steps: 123 \n 
+Episode 3: reward: 0.000, steps: 123 \n
+Episode 4: reward: 0.000, steps: 123 \n
+Episode 5: reward: 0.000, steps: 123 \n
 
 * Performance after 1.1 million epsiodes-
-Episode 1: reward: 28.000, steps: 976
-Episode 2: reward: 28.000, steps: 976
+Episode 1: reward: 28.000, steps: 976 \n
+Episode 2: reward: 28.000, steps: 976 \n
 Episode 3: reward: 28.000, steps: 976
 Episode 4: reward: 28.000, steps: 976
 Episode 5: reward: 28.000, steps: 976
